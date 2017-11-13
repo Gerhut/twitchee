@@ -1,5 +1,7 @@
 # twitchee
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Gerhut/twitchee.svg)](https://greenkeeper.io/)
+
 Watch twitch channel.
 
 ## Install
