@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Watch twitch video.",
   "main": "index.js",
-  "bin": "electron .",
+  "bin": "bin.js",
   "scripts": {
     "start": "electron .",
     "test": "standard"
