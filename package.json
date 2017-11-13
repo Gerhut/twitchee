@@ -1,0 +1,31 @@
+{
+  "name": "twitchee",
+  "version": "0.0.0",
+  "description": "Watch twitch video.",
+  "main": "index.js",
+  "bin": "electron .",
+  "scripts": {
+    "start": "electron .",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerhut/twitchee.git"
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "George Chung <Gerhut@GMail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gerhut/twitchee/issues"
+  },
+  "homepage": "https://github.com/Gerhut/twitchee#readme",
+  "dependencies": {
+    "electron": "^1.7.9",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
